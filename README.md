@@ -8,15 +8,11 @@
 [![Github](https://img.shields.io/github/followers/rainerigius?label=Follow&style=social)](https://github.com/rainerigius)
 
 ## Repositories
-[SignalGPT](https://github.com/rainerigius/SignalGPT)
-
-[hidden-markov-model](https://github.com/rainerigius/hidden-markov-model)
-
-[cli-encrypted-chatroom](https://github.com/rainerigius/cli-encrypted-chatroom)
-
-[apple-vulnerability](https://github.com/rainerigius/apple-vulnerability)
-
-[veyon-windows-safe-mode](https://github.com/rainerigius/veyon-windows-safe-mode)
+- [SignalGPT](https://github.com/rainerigius/SignalGPT) Create your own AI chat on Signal
+- [hidden-markov-model](https://github.com/rainerigius/hidden-markov-model) Python HMMlearn library applied to finance and csv analysis
+- [cli-encrypted-chatroom](https://github.com/rainerigius/cli-encrypted-chatroom) Encrypted chatroom via terminal
+- [apple-vulnerability](https://github.com/rainerigius/apple-vulnerability) An Apple vulnerability on the iCloud Windows app
+- [veyon-windows-safe-mode](https://github.com/rainerigius/veyon-windows-safe-mode) Enable and force [Veyon](veyon.io) in Windows safemode with network
 
 
 ### ⚙️ Tech Stack
