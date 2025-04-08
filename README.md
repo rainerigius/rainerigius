@@ -9,10 +9,15 @@
 
 ## Repositories
 [SignalGPT](https://github.com/rainerigius/SignalGPT)
+
 [hidden-markov-model](https://github.com/rainerigius/hidden-markov-model)
+
 [cli-encrypted-chatroom](https://github.com/rainerigius/cli-encrypted-chatroom)
+
 [apple-vulnerability](https://github.com/rainerigius/apple-vulnerability)
+
 [veyon-windows-safe-mode](https://github.com/rainerigius/veyon-windows-safe-mode)
+
 
 ### ⚙️ Tech Stack
 
