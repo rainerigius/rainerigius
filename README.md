@@ -8,18 +8,6 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rainerigiu.com)](https://rainerigiu.com)
 [![Github](https://img.shields.io/github/followers/rainerigius?label=Follow&style=social)](https://github.com/rainerigius)
 
-- 💻 Owner of [**my own crypto investing strategies**](https://rainerigiu.com). Check it out.
-- 🤔 I’m currently coding [my new crypto indicators](https://www.tradingview.com/u/RaineriGiuseppe/). Check it out if interested.
-- 🌱 I also study Python, Machine Learning,  AI, etc.
-- 📫 How to reach me: [Instagram](https://instagram.com/rainerigiu)
-
-
-### 🖥 Skills
-
-- Crypto Investing
-- Automate everything
-- Portfolio strategies
-- Stocks & crypto analysis
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Pine%20Script-05122A?style=flat-square&logo=Pine-Script&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
